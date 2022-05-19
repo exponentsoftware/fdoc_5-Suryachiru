@@ -1,0 +1,20 @@
+{
+  "name": "fdoc_5-suryachiru",
+  "version": "1.0.0",
+  "description": "1. Use the countries API to fetch data about countries. (5 pt)",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/fdoc_5-Suryachiru.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/fdoc_5-Suryachiru/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/fdoc_5-Suryachiru#readme"
+}
